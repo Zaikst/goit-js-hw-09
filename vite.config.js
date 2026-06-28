@@ -6,7 +6,6 @@ import SortCss from 'postcss-sort-media-queries';
 
 export default defineConfig({
   root: 'src',
-  base: '/goit-js-hw-09/',
   
   define: {
     global: 'window',
